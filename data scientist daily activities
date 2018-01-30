@@ -1,0 +1,34 @@
+"So what’s life actually like as a data scientist? What’s a typical day?” 
+
+HBS says it’s the Sexiest Job of the 21st Century. If sexy is defined as the large scale application of linear algebra to minimise cost functions – then, yes; incredibly so. 👨‍🎓
+
+But really – here’s an average day:
+
+6:00 AM – A quick run to promote positive endorphins (BDNF) to start the day 🏃🏻
+
+7:30AM – Check-in to the office and grab a quick breaky. Can’t start work without those fruity sugars! 🍎
+
+8:00AM – Quick review of Linear Algebra. Coffee makes digesting mathematics slightly easier. 📚
+
+9:00AM – Scrum stand-up. We discuss the model(s) we’re working on / blockers we’re facing.🔎
+
+9:15AM–12PM: Review Problem Statement Worksheets alongside hypotheses to test / prove with the SME.  
+
+12–1PM: Lunch.
+
+1–5PM+: Variations of steps 1 – 8. 
+1. Code / Data Wrangle. 👨🏻‍💻
+
+2. Work out why code doesn’t compile. 🤔
+
+3. Re-run. 👨🏻‍💻
+
+4. Code compiles magically. 🧙‍♂️
+
+5. Run the code over test set overnight. 🌝 
+
+6. Provided no errors - document insights and findings. 📝
+
+7. Refactor code for usability into functions and callable libraries in preparation for production. 👨🏻‍💻
+
+8. Pass code for review to another data scientist and repeat the process.	 👨🏼‍🏫
