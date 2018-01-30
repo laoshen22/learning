@@ -1,0 +1,39 @@
+Getting started with Distributed Deep Learning (Spark and Keras).
+
+Deep Learning is one (and will be) of the most important tools and theories a Data Scientist should Learn. We are so lucky to see amazing people creating both research, software, tools and hardware specific for DL tasks. 
+
+This post is about the thing everyone should be aware too, DL is computationally expensive, and even though there's been advances in theory, software and hardware, we need the developments in Big Data and Distributed Machine Learning to improve performance and efficiency.
+
+Great people and companies are making amazing efforts to join the distributed frameworks (Spark) and DL libraries (TF and Keras). Here's an overview:
+
+1. Databricks: Deep Learning Pipelines (Soon will be merge to Spark)
+
+https://lnkd.in/eEiWrTG
+
+2. Elephas: Distributed DL with Keras & PySpark: 
+
+- https://lnkd.in/e5vSuet
+
+3. Yahoo! Inc.: TensorFlowOnSpark:
+
+https://lnkd.in/eYFyvMM
+
+4. CERN Distributed Keras (Keras + Spark) :
+
+https://lnkd.in/e564tVr
+
+5. Qubole (tutorial Keras + Spark):
+
+https://lnkd.in/eF82m6T
+
+6. Intel Corporation: BigDL (Distributed Deep Learning Library for Apache Spark)
+
+https://lnkd.in/eV-Eunv
+
+6. TensorFlow and Spark on Google Cloud:
+
+https://lnkd.in/eAG29x5
+
+More info soon.
+
+Have fun learning :).
